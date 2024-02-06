@@ -9,7 +9,7 @@ import org.junit.Test
 import test.fake.rules.TestDispatcherRule
 
 class MarsViewModelTest {
-    @get:Rule
+    //@get:Rule
     val testDispatcher = TestDispatcherRule()
 
     @Test
